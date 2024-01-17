@@ -1,2 +1,2 @@
 print ("Hello Git")
-print ("Curso")
+print ("Curso Actualizado al 2024")
